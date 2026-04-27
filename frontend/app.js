@@ -1,4 +1,4 @@
-const API = 'http://localhost:5000/api';
+const API = 'https://task-manager-866v.onrender.com/api';
 let token = localStorage.getItem('token');
 
 // Show correct screen on load
